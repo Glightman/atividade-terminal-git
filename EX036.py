@@ -1,4 +1,4 @@
-""" Exercício Python 36: 
+""" Exercício Python 36 (curso de python na plataforma curso em vídeo): 
 Escreva um programa para aprovar o empréstimo bancário 
 para a compra de uma casa. 
 Pergunte o valor da casa, o salário do comprador 
